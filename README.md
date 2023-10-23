@@ -1,7 +1,7 @@
 # SchoolEmergencySecurityApp
 
 
-App Name: CampusShield
+App Name: CampusShield      
 A fun security application for school that Students can use in case of any hazardous situation
 
 I used VsCode
