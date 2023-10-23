@@ -10,3 +10,9 @@ Make sure to include the dependencies and assets in my "pubspec.yaml " file into
 
 Run the path below to launch the application:
 EmergencyAppProject\loads\HomeAnimationPage.dart
+
+
+
+
+https://github.com/Tagbovi/SchoolEmergencySecurityApp/assets/119264693/3e456959-06d6-4e0a-8b75-9a5da7d74cae
+
